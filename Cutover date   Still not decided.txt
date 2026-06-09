@@ -1,0 +1,38 @@
+Cutover date :  Still not decided
+Incremental Sync for mailbox for users other then leadership:
+	One incremental sync before cutover (minimum)
+
+Mailbox restriction: 
+	List of domain which are restricted
+	do not apply for support function
+Need policy and SOP
+
+MS Teams:
+	Incremental sync: 2 weeks
+	Revised plan : for MS teams
+
+MS Teams and SharePoint:
+	SharePoint: Append enc
+	First active sites
+
+List of sites with heavy sites
+
+
+Onboarding and deboarding:
+	SOP: SAP-via email - > automation
+	
+
+Jitu: Call for system enforcement
+
+
+	
+	
+
+	
+
+
+
+
+	
+	
+	
